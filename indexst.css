@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+.container-my5{
+    background-color: aliceblue;
+}
+.container-my5 h2 {
+    text-align: center;
+   font-size: 80px;
+   font-family: 'Gill Sans';
+   background-color: aqua;
+   color: darkgoldenrod;
+}
+tr{
+    border: 2px black;
+    background-color: cadetblue;
+}
+.heading{
+    margin-bottom: 10px;
+}
